@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794164792|63162648';
+const CACHE_VERSION = '1794165369|92419740';
 /** @type {string} */
 const CACHE_PREFIX = 'Mythophedia-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
